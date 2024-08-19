@@ -26,7 +26,7 @@ Aunque empresa tiene su sede en Massachusetts, tiene empleados en gran parte de 
 ![03 Mapa](https://github.com/user-attachments/assets/89433126-dce9-4a75-9663-9889832f03bc)
 
 
-Las causas de retiro de la empresa son diversas. El año 2015 tuvo la mayor salida de trabajadores. Entre las principales causas están la búsqueda de otra posición fuera de la empresa y la insatisfacción laboral. 
+Las causas de retiro de la empresa son diversas. El año 2015 tuvo la mayor salida de trabajadores. Entre las principales causas están la búsqueda de otra posición fuera de la empresa, el bajo salario, y la insatisfacción laboral. 
 
 ![04 Retención](https://github.com/user-attachments/assets/c1967abb-9fb3-453a-8193-64a2a6f8fc0a)
 
